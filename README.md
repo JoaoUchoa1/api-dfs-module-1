@@ -1,2 +1,2 @@
-# api-osb-module-1
-Implementação de uma API em .NET para um supermercado, apostila curso DFS modulo 1
+# api-dfs-module-1
+Neste repositorio temos a implementação de uma API restfull simples para um supermercado.
